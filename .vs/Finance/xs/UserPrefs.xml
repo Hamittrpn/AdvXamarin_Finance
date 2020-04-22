@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{154CC417-21AE-4A00-918F-FD8CD83D3F7B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Finance.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Finance" expanded="True">
+            <Node name="Finance" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Model" expanded="True">
+                <Node name="Posts.cs" selected="True" />
+              </Node>
+              <Node name="View" expanded="True" />
+              <Node name="ViewModel" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Finance.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.50389D35-A270-467E-8D76-ADF36452A682" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
