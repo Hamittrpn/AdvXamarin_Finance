@@ -127,7 +127,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "4.5.0.617"
+          "Xamarin.Forms": "4.5.0.657"
         },
         "compile": {
           "bin/placeholder/Finance.dll": {}
@@ -263,7 +263,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "4.5.0.617"
+          "Xamarin.Forms": "4.5.0.657"
         },
         "compile": {
           "bin/placeholder/Finance.dll": {}
@@ -399,7 +399,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "4.5.0.617"
+          "Xamarin.Forms": "4.5.0.657"
         },
         "compile": {
           "bin/placeholder/Finance.dll": {}
@@ -535,7 +535,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "4.5.0.617"
+          "Xamarin.Forms": "4.5.0.657"
         },
         "compile": {
           "bin/placeholder/Finance.dll": {}
@@ -924,5 +924,20 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.5.0.657 to 4.5.0.617. Reference the package directly from the project to select a different version. \n Finance.iOS -> Finance -> Xamarin.Forms (>= 4.5.0.657) \n Finance.iOS -> Xamarin.Forms (>= 4.5.0.617)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }
