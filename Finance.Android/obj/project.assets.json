@@ -1370,7 +1370,7 @@
           "buildTransitive/monoandroid90/Xamarin.AndroidX.MediaRouter.targets": {}
         }
       },
-      "Xamarin.AndroidX.Migration/1.0.4": {
+      "Xamarin.AndroidX.Migration/1.0.5": {
         "type": "package",
         "dependencies": {
           "Xamarin.AndroidX.MultiDex": "2.0.1"
@@ -1619,7 +1619,7 @@
           "buildTransitive/monoandroid90/Xamarin.AndroidX.ViewPager.targets": {}
         }
       },
-      "Xamarin.Forms/4.5.0.617": {
+      "Xamarin.Forms/4.5.0.657": {
         "type": "package",
         "dependencies": {
           "Xamarin.AndroidX.Browser": "1.0.0",
@@ -1676,7 +1676,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "4.5.0.617"
+          "Xamarin.Forms": "4.5.0.657"
         },
         "compile": {
           "bin/placeholder/Finance.dll": {}
@@ -2980,10 +2980,10 @@
         "xamarin.androidx.mediarouter.nuspec"
       ]
     },
-    "Xamarin.AndroidX.Migration/1.0.4": {
-      "sha512": "vlyj4vzfm2Xgw0Savn9t9rrPON0ZZABf51h3XSFa8iAAuV87ng07d3KDNmg4c/0SDOKZSR1o4k8wzE1hmHHwvw==",
+    "Xamarin.AndroidX.Migration/1.0.5": {
+      "sha512": "quNeCd0eev7OPEc8F9/uNWjNjZ4NV9wBJY+oNLmoGaQvYl1WBIaPLlCajMMuFDM9owfcovNoqBK27LAkV+xvyg==",
       "type": "package",
-      "path": "xamarin.androidx.migration/1.0.4",
+      "path": "xamarin.androidx.migration/1.0.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3021,7 +3021,7 @@
         "buildTransitive/monoandroid90/Xamarin.AndroidX.Migration.targets",
         "lib/monoandroid90/_._",
         "readme.txt",
-        "xamarin.androidx.migration.1.0.4.nupkg.sha512",
+        "xamarin.androidx.migration.1.0.5.nupkg.sha512",
         "xamarin.androidx.migration.nuspec"
       ]
     },
@@ -3236,10 +3236,10 @@
         "xamarin.androidx.viewpager.nuspec"
       ]
     },
-    "Xamarin.Forms/4.5.0.617": {
-      "sha512": "tB/h7bHEylOgNT+521SRnbmO+LCe5R3lPboD/icCMpa+FdjmxhZQ7+fIIPFDbhY2dqYetGRnAeJWXVx4NLbmAw==",
+    "Xamarin.Forms/4.5.0.657": {
+      "sha512": "S6WmhCKBRDMG5woHEIRA8MBZv6yn2jZ8Kf9DzzcOuB5gXivH1S5mIiSt4yoaa9HwfNUcg2d7AH2GEoICmH5bJg==",
       "type": "package",
-      "path": "xamarin.forms/4.5.0.617",
+      "path": "xamarin.forms/4.5.0.657",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3544,7 +3544,7 @@
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.4.5.0.617.nupkg.sha512",
+        "xamarin.forms.4.5.0.657.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -3581,8 +3581,8 @@
       "Xamarin.Android.Support.v7.CardView >= 28.0.0.3",
       "Xamarin.Android.Support.v7.MediaRouter >= 28.0.0.3",
       "Xamarin.AndroidX.MediaRouter >= 1.1.0",
-      "Xamarin.AndroidX.Migration >= 1.0.4",
-      "Xamarin.Forms >= 4.5.0.617"
+      "Xamarin.AndroidX.Migration >= 1.0.5",
+      "Xamarin.Forms >= 4.5.0.657"
     ]
   },
   "packageFolders": {
@@ -3646,11 +3646,11 @@
           },
           "Xamarin.AndroidX.Migration": {
             "target": "Package",
-            "version": "[1.0.4, )"
+            "version": "[1.0.5, )"
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[4.5.0.617, )"
+            "version": "[4.5.0.657, )"
           }
         }
       }

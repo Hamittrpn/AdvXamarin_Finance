@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "Xamarin.iOS,Version=v1.0": {
-      "Xamarin.Forms/4.5.0.617": {
+      "Xamarin.Forms/4.5.0.657": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -127,7 +127,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "4.5.0.617"
+          "Xamarin.Forms": "4.5.0.657"
         },
         "compile": {
           "bin/placeholder/Finance.dll": {}
@@ -138,7 +138,7 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
-      "Xamarin.Forms/4.5.0.617": {
+      "Xamarin.Forms/4.5.0.657": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -263,7 +263,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "4.5.0.617"
+          "Xamarin.Forms": "4.5.0.657"
         },
         "compile": {
           "bin/placeholder/Finance.dll": {}
@@ -274,7 +274,7 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x64": {
-      "Xamarin.Forms/4.5.0.617": {
+      "Xamarin.Forms/4.5.0.657": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -399,7 +399,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "4.5.0.617"
+          "Xamarin.Forms": "4.5.0.657"
         },
         "compile": {
           "bin/placeholder/Finance.dll": {}
@@ -410,7 +410,7 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
-      "Xamarin.Forms/4.5.0.617": {
+      "Xamarin.Forms/4.5.0.657": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -535,7 +535,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "4.5.0.617"
+          "Xamarin.Forms": "4.5.0.657"
         },
         "compile": {
           "bin/placeholder/Finance.dll": {}
@@ -547,10 +547,10 @@
     }
   },
   "libraries": {
-    "Xamarin.Forms/4.5.0.617": {
-      "sha512": "tB/h7bHEylOgNT+521SRnbmO+LCe5R3lPboD/icCMpa+FdjmxhZQ7+fIIPFDbhY2dqYetGRnAeJWXVx4NLbmAw==",
+    "Xamarin.Forms/4.5.0.657": {
+      "sha512": "S6WmhCKBRDMG5woHEIRA8MBZv6yn2jZ8Kf9DzzcOuB5gXivH1S5mIiSt4yoaa9HwfNUcg2d7AH2GEoICmH5bJg==",
       "type": "package",
-      "path": "xamarin.forms/4.5.0.617",
+      "path": "xamarin.forms/4.5.0.657",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -855,7 +855,7 @@
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.4.5.0.617.nupkg.sha512",
+        "xamarin.forms.4.5.0.657.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -868,7 +868,7 @@
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
       "Finance >= 1.0.0",
-      "Xamarin.Forms >= 4.5.0.617"
+      "Xamarin.Forms >= 4.5.0.657"
     ]
   },
   "packageFolders": {
@@ -908,7 +908,7 @@
         "dependencies": {
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[4.5.0.617, )"
+            "version": "[4.5.0.657, )"
           }
         }
       }

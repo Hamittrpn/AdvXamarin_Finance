@@ -43,15 +43,15 @@
 /Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
 /Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/bin/iPhoneSimulator/Debug/Finance.pdb
 /Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
-/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
-/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
-/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
-/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
-/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
-/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/optimized/
 /Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/Finance.iOS.csprojAssemblyReference.cache
 /Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/Finance.iOS.csproj.CoreCompileInputs.cache
 /Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/Finance.iOS.csproj.CopyComplete
 /Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/Finance.iOS.exe
 /Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/Finance.iOS.pdb
+/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_PartialAppManifest.items
+/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_BundleResourceWithLogicalName.items
+/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_PartialAppManifest.items
+/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/optimized/
