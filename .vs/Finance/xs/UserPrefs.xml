@@ -1,26 +1,30 @@
-﻿<Properties StartupConfiguration="{154CC417-21AE-4A00-918F-FD8CD83D3F7B}|Default">
-  <MonoDevelop.Ide.ItemProperties.Finance.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{8337A36F-24EB-4EA0-909B-C7644191855D}|Default">
   <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Finance/ViewModel/MainVM.cs" Line="29" Column="1" />
+      <File FileName="Finance.iOS/Info.plist" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Finance" expanded="True">
+          <Node name="Finance" expanded="True" selected="True">
             <Node name="Finance" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="Model" expanded="True">
-                <Node name="Posts.cs" selected="True" />
-              </Node>
               <Node name="View" expanded="True" />
               <Node name="ViewModel" expanded="True" />
+            </Node>
+            <Node name="Finance.iOS" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Resources" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Finance.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.50389D35-A270-467E-8D76-ADF36452A682" />
+  <MonoDevelop.Ide.ItemProperties.Finance.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.50389D35-A270-467E-8D76-ADF36452A682" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

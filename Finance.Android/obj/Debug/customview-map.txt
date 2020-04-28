@@ -24,6 +24,7 @@ com.google.android.material.tabs.TabLayout;/Users/markusmatthys/Projects/UdemyXa
 com.google.android.material.tabs.TabLayout;/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.Android/obj/Debug/lp/43/jl/res/layout/rootlayout.xml
 com.google.android.material.tabs.TabLayout;/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.Android/obj/Debug/lp/43/jl/res/layout/tabbar.xml
 com.google.android.material.tabs.TabLayout;obj/Debug/res/layout/tabbar.xml
+crc64720bb2db43a66fe9.FormsViewPager;/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.Android/obj/Debug/lp/43/jl/res/layout/rootlayout.xml
 foreground;obj/Debug/res/mipmap-anydpi-v26/icon.xml
 foreground;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
 FrameLayout;/Users/markusmatthys/Projects/UdemyXamarin/Finance/Finance.Android/obj/Debug/lp/43/jl/res/layout/bottomtablayout.xml
